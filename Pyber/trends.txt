@@ -1,0 +1,5 @@
+1. Average fares in Urban cities are lower compared to Suburban and Rural
+2. number of drivers in urban cities are higher that suburban and rural
+3. Average fare spread is very high in rural cities
+4. high ride service usage in Ubran cities based on higher number of rides.
+5. Average fare is lower in cities with higher number of drivers
